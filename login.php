@@ -1,3 +1,5 @@
+<!doctype html>
+<html>
 <?php
 // Initialize the session
 session_start();
@@ -87,9 +89,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     mysqli_close($link);
 }
 ?>
-<!doctype html>
-<html>
-
 <head>
     <title>Login</title>
     <link rel="stylesheet" href="globalStyle.css">
