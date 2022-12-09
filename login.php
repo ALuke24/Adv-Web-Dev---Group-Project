@@ -100,11 +100,11 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 	<h1 id="title">Login</h1>
 		<div id="navbar"><!--Navigation bar-->
 		<ul>
-			<li><a href="mainpage.html">Homepage</a></li>
+			<li><a href="main-page.html">Homepage</a></li>
 			<li><a href="login.php">Login</a></li>
 			<li><a href="Registstation.php">Registration</a></li>
-			<li><a href="counselinginfo.html">Counseling Info</a></li>
-            <li><a href="staffinfo.html">Staff</a></li>
+			<li><a href="counseling-info.html">Counseling Info</a></li>
+            <li><a href="staff-info.html">Staff</a></li>
             <li><a href="news.html">News</a></li>
 		</ul>
         </div>
