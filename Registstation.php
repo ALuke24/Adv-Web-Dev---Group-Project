@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Registration</title>
-<link rel="stylesheet" href="finalProject.css">
+<link rel="stylesheet" href="globalStyle.css">
 <script>
     function checkfName(){
 				var RegExp = /\w\w*/;
